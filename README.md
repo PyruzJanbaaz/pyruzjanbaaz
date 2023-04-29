@@ -19,6 +19,7 @@
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pyruzjanbaaz)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyruzjanbaaz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
