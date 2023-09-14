@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Azure cloud**
 
-- 📝 I regularly write articles on [[https://ir.linkedin.com/in/pyruz-janbaaz-9a327226](https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/)]([https://ir.linkedin.com/in/pyruz-janbaaz-9a327226](https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/))
+- 📝 I regularly write articles on [https://ir.linkedin.com/in/pyruz-janbaaz-9a327226](https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/)
 
 - 💬 Ask me about **Java, Spring Boot, Spring Security, Spring Data, Spring Cloud, Vue.js**
 
 - 📫 How to reach me **pyruz.janbaaz@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/]([https://ir.linkedin.com/in/pyruz-janbaaz-9a327226](https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/))
+- 📄 Know about my experiences [https://ir.linkedin.com/in/pyruz-janbaaz-9a327226](https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
