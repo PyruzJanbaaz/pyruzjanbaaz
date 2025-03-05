@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pyruz</h1>
-<h3 align="center">A passionate full-stack developer from Germany</h3>
+<h3 align="center">A passionate Full-Stack developer from Germany</h3>
 
 - 🔭 I’m currently working on **Online shopping solutions**
 
