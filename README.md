@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pyruz</h1>
 <h3 align="center">A passionate Full-Stack developer from Germany</h3>
 
-- 🔭 I’m currently working on **insurance service**.
+- 🔭 I’m currently working on **Insurance services in Mercedes-Benz AG**.
 
 - 🌱 I’m currently learning **AI Engineering**
 
