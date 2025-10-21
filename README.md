@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pyruz</h1>
 <h3 align="center">A passionate Full-Stack developer from Germany</h3>
 
-- 🔭 I’m currently working on **Online shopping solutions**
+- 🔭 I’m currently working on **insurance service**.
 
-- 🌱 I’m currently learning **Azure cloud**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 📝 I regularly write articles on [https://ir.linkedin.com/in/pyruz-janbaaz-9a327226](https://www.linkedin.com/in/ebrahim-janbaaz-9a327226/)
 
