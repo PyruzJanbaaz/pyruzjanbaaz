@@ -4,13 +4,11 @@
 ---
 ### 🚀 About Me
 
-I’m a polyglot Full‑Stack Engineer based in Germany with over 15 years of experience building enterprise‑grade software across banking, insurance, and automotive domains. Throughout my career, I’ve worked extensively with modern backend and frontend technologies, delivering secure, scalable, and maintainable systems used in real-world production environments.
+I’m a polyglot Full‑Stack Engineer based in Germany with 15+ years of experience delivering enterprise‑grade software across banking, insurance, and automotive domains. I specialize in building secure, scalable, and maintainable backend services using the Java ecosystem — including Spring Boot, Spring Cloud, Spring Data, Spring Security, and Spring Integration.
 
-My technical background includes deep expertise in the Java ecosystem, particularly the Spring Framework — covering Spring Boot, Spring Cloud, Spring Data, Spring Security, and Spring Integration. I’ve designed and implemented microservices architectures, built robust Web APIs, and worked with relational and in-memory databases such as PostgreSQL, MySQL, and Redis. On the frontend side, I have hands-on experience developing modern, responsive interfaces using Vue.js (including Vue 3) and other contemporary JavaScript frameworks.
+My work spans microservices architecture, distributed systems, and message‑driven platforms using Kafka, RabbitMQ, and ActiveMQ. I have strong experience with relational and in‑memory databases such as PostgreSQL, MySQL, and Redis, and I frequently work with containerized environments using Docker, Kubernetes, and CI/CD pipelines.
 
-I’m also experienced in message-driven and distributed systems using Kafka, RabbitMQ, and ActiveMQ, and I’ve integrated these technologies into large-scale enterprise workflows. My work often involves containerized environments with Docker and Kubernetes, as well as CI/CD pipelines that ensure smooth, reliable delivery across development stages.
-
-I thrive in multicultural, cross-functional teams and enjoy contributing to Agile environments using the SCRUM framework. I’m a detail-oriented and dedicated engineer who values clean architecture, clear abstractions, and building systems that are both practical and future-proof. I regularly share insights and lessons learned through technical writing, helping other engineers benefit from real-world experience.
+On the frontend side, I’ve built modern, responsive applications with Vue.js (including Vue 3) and other JavaScript frameworks. I thrive in multicultural, cross‑functional teams and enjoy contributing to Agile environments using SCRUM. I value clean architecture, clear abstractions, and sharing practical knowledge through technical writing.
 
 ---
 
@@ -32,4 +30,7 @@ MySQL • PostgreSQL • Oracle • Redis
 Jest • Mocha • Postman • Kibana • Cypress • Playwright
 
 ---
+
+### 🧩 Engineering Philosophy
+Clean architecture • Maintainability • Simplicity • Reliability • Strong abstractions
 
