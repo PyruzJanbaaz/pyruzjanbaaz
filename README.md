@@ -19,16 +19,16 @@ On the frontend side, I’ve built modern, responsive applications with Vue.js (
 Java • Spring Boot • Spring Security • Spring Cloud • Spring Data • Microservices • Apache Kafka • RabbitMQ • ActiveMQ • Apache Camel
 
 #### 🌐 Frontend
-JavaScript • TypeScript • Angular • React • Vue.js • Nuxt.js • Vuetify • Bootstrap • Materialize
+JavaScript • TypeScript • Angular • React • Vue.js • Nuxt.js • Vuetify • Bootstrap • Materialize • Micro-Frontends
 
 #### ☁️ Cloud & DevOps
-Azure • Docker • Kubernetes • Nginx • Linux • Git • CI/CD • Webpack
+Azure • Docker • Kubernetes • Nginx • Linux • Git • CI/CD 
 
 #### 🗄️ Databases
 MySQL • PostgreSQL • Oracle • Redis
 
 #### 🧪 Testing & Monitoring
-Jest • Mocha • Postman • Kibana • Cypress • Playwright
+Vitest • Jest • Mocha • Postman • Kibana • Cypress • Playwright
 
 ---
 
