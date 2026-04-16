@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Pyruz (Ebrahim) 👋</h1>
-<h3 align="center">Full‑Stack Engineer • AI Engineering Learner • Based in Germany</h3>
+<h3 align="center">Full‑Stack Engineer • Based in Germany</h3>
 
 ---
+
 ### 🚀 About Me
 
 I’m a polyglot Full‑Stack Engineer based in Germany with 15+ years of experience delivering enterprise‑grade software across banking, insurance, and automotive domains. I specialize in building secure, scalable, and maintainable backend services using the Java ecosystem — including Spring Boot, Spring Cloud, Spring Data, Spring Security, and Spring Integration.
@@ -33,4 +34,3 @@ Jest • Mocha • Postman • Kibana • Cypress • Playwright
 
 ### 🧩 Engineering Philosophy
 Clean architecture • Maintainability • Simplicity • Reliability • Strong abstractions
-
